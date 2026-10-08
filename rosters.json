@@ -1,0 +1,868 @@
+{
+  "teams": {
+    "Ludo Goodliffe": [
+      {
+        "fpl_id": 269,
+        "name": "Ryan Sessegnon",
+        "club": "Fulham",
+        "position": "DEF",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 200,
+        "name": "Maxence Lacroix",
+        "club": "Chelsea",
+        "position": "DEF",
+        "price_paid": 3
+      },
+      {
+        "fpl_id": 152,
+        "name": "Marco Palestra",
+        "club": "Chelsea",
+        "position": "DEF",
+        "price_paid": 2
+      },
+      {
+        "fpl_id": 86,
+        "name": "Keane Lewis-Potter",
+        "club": "Brentford",
+        "position": "MID",
+        "price_paid": 3
+      },
+      {
+        "fpl_id": 95,
+        "name": "Dango Ouattara",
+        "club": "Brentford",
+        "position": "MID",
+        "price_paid": 28
+      },
+      {
+        "fpl_id": 336,
+        "name": "Noah Okafor",
+        "club": "Leeds",
+        "position": "MID",
+        "price_paid": 16
+      },
+      {
+        "fpl_id": 40,
+        "name": "Morgan Rogers",
+        "club": "Chelsea",
+        "position": "MID",
+        "price_paid": 67
+      },
+      {
+        "fpl_id": 237,
+        "name": "Iliman Ndiaye",
+        "club": "Everton",
+        "position": "MID",
+        "price_paid": 23
+      },
+      {
+        "fpl_id": 25,
+        "name": "Viktor Gyokeres",
+        "club": "Arsenal",
+        "position": "FWD",
+        "price_paid": 74
+      },
+      {
+        "fpl_id": 249,
+        "name": "Thierno Barry",
+        "club": "Everton",
+        "position": "FWD",
+        "price_paid": 1
+      }
+    ],
+    "Gian Barker": [
+      {
+        "fpl_id": 305,
+        "name": "Leif Davis",
+        "club": "Ipswich Town",
+        "position": "DEF",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 259,
+        "name": "Issa Diop",
+        "club": "Ipswich Town",
+        "position": "DEF",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 471,
+        "name": "Nikola Milenkovic",
+        "club": "Nott'm Forest",
+        "position": "DEF",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 155,
+        "name": "Enzo Fernandez",
+        "club": "Chelsea",
+        "position": "MID",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 400,
+        "name": "Jeremy Doku",
+        "club": "Man City",
+        "position": "MID",
+        "price_paid": 22
+      },
+      {
+        "fpl_id": 591,
+        "name": "Julio Enciso",
+        "club": "Ipswich Town",
+        "position": "MID",
+        "price_paid": 16
+      },
+      {
+        "fpl_id": 429,
+        "name": "Marcus Rashford",
+        "club": "Man Utd",
+        "position": "MID",
+        "price_paid": 37
+      },
+      {
+        "fpl_id": 236,
+        "name": "Kiernan Dewsbury-Hall",
+        "club": "Everton",
+        "position": "MID",
+        "price_paid": 15
+      },
+      {
+        "fpl_id": 316,
+        "name": "Emersonn",
+        "club": "Ipswich Town",
+        "position": "FWD",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 439,
+        "name": "Benjamin Sesko",
+        "club": "Man Utd",
+        "position": "FWD",
+        "price_paid": 76
+      }
+    ],
+    "Reuben McCardle": [
+      {
+        "fpl_id": 387,
+        "name": "Nico O'Reilly",
+        "club": "Man City",
+        "position": "DEF",
+        "price_paid": 17
+      },
+      {
+        "fpl_id": 8,
+        "name": "Riccardo Calafiori",
+        "club": "Arsenal",
+        "position": "DEF",
+        "price_paid": 8
+      },
+      {
+        "fpl_id": 499,
+        "name": "Pedro Porro",
+        "club": "Spurs",
+        "position": "DEF",
+        "price_paid": 9
+      },
+      {
+        "fpl_id": 68,
+        "name": "Marcus Tavernier",
+        "club": "Bournemouth",
+        "position": "MID",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 519,
+        "name": "Conor Gallagher",
+        "club": "Spurs",
+        "position": "MID",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 480,
+        "name": "Morgan Gibbs-White",
+        "club": "Nott'm Forest",
+        "position": "MID",
+        "price_paid": 50
+      },
+      {
+        "fpl_id": 366,
+        "name": "Florian Wirtz",
+        "club": "Liverpool",
+        "position": "MID",
+        "price_paid": 42
+      },
+      {
+        "fpl_id": 16,
+        "name": "Noni Madueke",
+        "club": "Arsenal",
+        "position": "MID",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 223,
+        "name": "Jean-Philippe Mateta",
+        "club": "Crystal Palace",
+        "position": "FWD",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 379,
+        "name": "Alexander Isak",
+        "club": "Liverpool",
+        "position": "FWD",
+        "price_paid": 120
+      }
+    ],
+    "Cas Goodliffe": [
+      {
+        "fpl_id": 388,
+        "name": "Marc Guehi",
+        "club": "Man City",
+        "position": "DEF",
+        "price_paid": 5
+      },
+      {
+        "fpl_id": 418,
+        "name": "Harry Maguire",
+        "club": "Man Utd",
+        "position": "DEF",
+        "price_paid": 8
+      },
+      {
+        "fpl_id": 112,
+        "name": "Jean Paul Van Hecke",
+        "club": "Spurs",
+        "position": "DEF",
+        "price_paid": 2
+      },
+      {
+        "fpl_id": 260,
+        "name": "Harry Wilson",
+        "club": "Leeds",
+        "position": "MID",
+        "price_paid": 30
+      },
+      {
+        "fpl_id": 452,
+        "name": "Bruno Guimaraes",
+        "club": "Arsenal",
+        "position": "MID",
+        "price_paid": 34
+      },
+      {
+        "fpl_id": 70,
+        "name": "Justin Kluivert",
+        "club": "Bournemouth",
+        "position": "MID",
+        "price_paid": 17
+      },
+      {
+        "fpl_id": 160,
+        "name": "Alejandro Garnacho",
+        "club": "Aston Villa",
+        "position": "MID",
+        "price_paid": 19
+      },
+      {
+        "fpl_id": 94,
+        "name": "Kevin Schade",
+        "club": "Brentford",
+        "position": "MID",
+        "price_paid": 31
+      },
+      {
+        "fpl_id": 295,
+        "name": "Oli McBurnie",
+        "club": "Hull City",
+        "position": "FWD",
+        "price_paid": 3
+      },
+      {
+        "fpl_id": 346,
+        "name": "Dominic Calvert-Lewin",
+        "club": "Leeds",
+        "position": "FWD",
+        "price_paid": 67
+      }
+    ],
+    "Luke Whitehorn": [
+      {
+        "fpl_id": 329,
+        "name": "Joe Rodon",
+        "club": "Leeds",
+        "position": "DEF",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 389,
+        "name": "Matheus Nunes",
+        "club": "Man City",
+        "position": "DEF",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 357,
+        "name": "Jeremie Frimpong",
+        "club": "Liverpool",
+        "position": "DEF",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 15,
+        "name": "Martin Odegaard",
+        "club": "Arsenal",
+        "position": "MID",
+        "price_paid": 25
+      },
+      {
+        "fpl_id": 368,
+        "name": "Dominik Szoboszlai",
+        "club": "Liverpool",
+        "position": "MID",
+        "price_paid": 29
+      },
+      {
+        "fpl_id": 398,
+        "name": "Phil Foden",
+        "club": "Man City",
+        "position": "MID",
+        "price_paid": 58
+      },
+      {
+        "fpl_id": 123,
+        "name": "Jack Hinshelwood",
+        "club": "Brighton",
+        "position": "MID",
+        "price_paid": 18
+      },
+      {
+        "fpl_id": 154,
+        "name": "Cole Palmer",
+        "club": "Chelsea",
+        "position": "MID",
+        "price_paid": 86
+      },
+      {
+        "fpl_id": 464,
+        "name": "Yoane Wissa",
+        "club": "Newcastle",
+        "position": "FWD",
+        "price_paid": 12
+      },
+      {
+        "fpl_id": 463,
+        "name": "Nick Woltemade",
+        "club": "Newcastle",
+        "position": "FWD",
+        "price_paid": 2
+      }
+    ],
+    "Chris Hodder": [
+      {
+        "fpl_id": 391,
+        "name": "Josko Gvardiol",
+        "club": "Man City",
+        "position": "DEF",
+        "price_paid": 2
+      },
+      {
+        "fpl_id": 142,
+        "name": "Reece James",
+        "club": "Chelsea",
+        "position": "DEF",
+        "price_paid": 2
+      },
+      {
+        "fpl_id": 445,
+        "name": "Malick Thiaw",
+        "club": "Newcastle",
+        "position": "DEF",
+        "price_paid": 4
+      },
+      {
+        "fpl_id": 124,
+        "name": "Pascal Gross",
+        "club": "Brighton",
+        "position": "MID",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 515,
+        "name": "James Maddison",
+        "club": "Spurs",
+        "position": "MID",
+        "price_paid": 10
+      },
+      {
+        "fpl_id": 67,
+        "name": "Rayan",
+        "club": "Bournemouth",
+        "position": "MID",
+        "price_paid": 27
+      },
+      {
+        "fpl_id": 426,
+        "name": "Bruno Fernandes",
+        "club": "Man Utd",
+        "position": "MID",
+        "price_paid": 101
+      },
+      {
+        "fpl_id": 431,
+        "name": "Amad Diallo",
+        "club": "Man Utd",
+        "position": "MID",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 490,
+        "name": "Chris Wood",
+        "club": "Nott'm Forest",
+        "position": "FWD",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 26,
+        "name": "Kai Havertz",
+        "club": "Arsenal",
+        "position": "FWD",
+        "price_paid": 88
+      }
+    ],
+    "Jack Rowland/Joe Stevenson": [
+      {
+        "fpl_id": 356,
+        "name": "Virgil Van Dijk",
+        "club": "Liverpool",
+        "position": "DEF",
+        "price_paid": 10
+      },
+      {
+        "fpl_id": 201,
+        "name": "Daniel Munoz",
+        "club": "Crystal Palace",
+        "position": "DEF",
+        "price_paid": 8
+      },
+      {
+        "fpl_id": 4,
+        "name": "Gabriel",
+        "club": "Arsenal",
+        "position": "DEF",
+        "price_paid": 16
+      },
+      {
+        "fpl_id": 45,
+        "name": "John McGinn",
+        "club": "Aston Villa",
+        "position": "MID",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 208,
+        "name": "Ismaila Sarr",
+        "club": "Crystal Palace",
+        "position": "MID",
+        "price_paid": 31
+      },
+      {
+        "fpl_id": 399,
+        "name": "Rayan Cherki",
+        "club": "Man City",
+        "position": "MID",
+        "price_paid": 34
+      },
+      {
+        "fpl_id": 397,
+        "name": "Antoine Semenyo",
+        "club": "Man City",
+        "position": "MID",
+        "price_paid": 79
+      },
+      {
+        "fpl_id": 453,
+        "name": "Harvey Barnes",
+        "club": "Newcastle",
+        "position": "MID",
+        "price_paid": 41
+      },
+      {
+        "fpl_id": 79,
+        "name": "Evanilson",
+        "club": "Bournemouth",
+        "position": "FWD",
+        "price_paid": 29
+      },
+      {
+        "fpl_id": 380,
+        "name": "Hugo Ekitike",
+        "club": "Liverpool",
+        "position": "FWD",
+        "price_paid": 1
+      }
+    ],
+    "Rob Mackie": [
+      {
+        "fpl_id": 532,
+        "name": "Dan Ballard",
+        "club": "Sunderland",
+        "position": "DEF",
+        "price_paid": 4
+      },
+      {
+        "fpl_id": 84,
+        "name": "Nathan Collins",
+        "club": "Brentford",
+        "position": "DEF",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 204,
+        "name": "Tyrick Mitchell",
+        "club": "Crystal Palace",
+        "position": "DEF",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 105,
+        "name": "Jaidon Anthony",
+        "club": "Brentford",
+        "position": "MID",
+        "price_paid": 2
+      },
+      {
+        "fpl_id": 454,
+        "name": "Anthony Elanga",
+        "club": "Newcastle",
+        "position": "MID",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 17,
+        "name": "Mikel Merino",
+        "club": "Arsenal",
+        "position": "MID",
+        "price_paid": 2
+      },
+      {
+        "fpl_id": 264,
+        "name": "Oscar Bobb",
+        "club": "Fulham",
+        "position": "MID",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 78,
+        "name": "Eli Kroupi Jr",
+        "club": "Bournemouth",
+        "position": "MID",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 411,
+        "name": "Erling Haaland",
+        "club": "Man City",
+        "position": "FWD",
+        "price_paid": 190
+      },
+      {
+        "fpl_id": 552,
+        "name": "Brian Brobbey",
+        "club": "Sunderland",
+        "position": "FWD",
+        "price_paid": 26
+      }
+    ],
+    "Oli Major": [
+      {
+        "fpl_id": 503,
+        "name": "Micky Van Der Ven",
+        "club": "Spurs",
+        "position": "DEF",
+        "price_paid": 2
+      },
+      {
+        "fpl_id": 328,
+        "name": "Pascal Struijk",
+        "club": "Brighton",
+        "position": "DEF",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 392,
+        "name": "Rayan Ait-Nouri",
+        "club": "Man City",
+        "position": "DEF",
+        "price_paid": 4
+      },
+      {
+        "fpl_id": 512,
+        "name": "Mohammed Kudus",
+        "club": "Spurs",
+        "position": "MID",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 12,
+        "name": "Bukayo Saka",
+        "club": "Arsenal",
+        "position": "MID",
+        "price_paid": 56
+      },
+      {
+        "fpl_id": 14,
+        "name": "Eberechi Eze",
+        "club": "Arsenal",
+        "position": "MID",
+        "price_paid": 19
+      },
+      {
+        "fpl_id": 557,
+        "name": "Christos Tzolis",
+        "club": "Arsenal",
+        "position": "MID",
+        "price_paid": 10
+      },
+      {
+        "fpl_id": 157,
+        "name": "Willian Estevao",
+        "club": "Chelsea",
+        "position": "MID",
+        "price_paid": 4
+      },
+      {
+        "fpl_id": 106,
+        "name": "Igor Thiago",
+        "club": "Brentford",
+        "position": "FWD",
+        "price_paid": 92
+      },
+      {
+        "fpl_id": 526,
+        "name": "Dominic Solanke",
+        "club": "Spurs",
+        "position": "FWD",
+        "price_paid": 27
+      }
+    ],
+    "Scott Johnson": [
+      {
+        "fpl_id": 33,
+        "name": "Tyrone Mings",
+        "club": "Aston Villa",
+        "position": "DEF",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 416,
+        "name": "Matheus De Ligt",
+        "club": "Man Utd",
+        "position": "DEF",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 362,
+        "name": "Jeremy Jacquet",
+        "club": "Liverpool",
+        "position": "DEF",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 20,
+        "name": "Max Dowman",
+        "club": "Arsenal",
+        "position": "MID",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 13,
+        "name": "Declan Rice",
+        "club": "Arsenal",
+        "position": "MID",
+        "price_paid": 17
+      },
+      {
+        "fpl_id": 367,
+        "name": "Cody Gakpo",
+        "club": "Liverpool",
+        "position": "MID",
+        "price_paid": 44
+      },
+      {
+        "fpl_id": 427,
+        "name": "Bryan Mbeumo",
+        "club": "Man Utd",
+        "position": "MID",
+        "price_paid": 72
+      },
+      {
+        "fpl_id": 369,
+        "name": "Rio Ngumoha",
+        "club": "Liverpool",
+        "position": "MID",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 527,
+        "name": "Richarlison",
+        "club": "Spurs",
+        "position": "FWD",
+        "price_paid": 3
+      },
+      {
+        "fpl_id": 55,
+        "name": "Ollie Watkins",
+        "club": "Aston Villa",
+        "position": "FWD",
+        "price_paid": 107
+      }
+    ],
+    "Toby Ostrich": [
+      {
+        "fpl_id": 115,
+        "name": "Maxim De Cuyper",
+        "club": "Brighton",
+        "position": "DEF",
+        "price_paid": 5
+      },
+      {
+        "fpl_id": 327,
+        "name": "Jakub Bijol",
+        "club": "Leeds",
+        "position": "DEF",
+        "price_paid": 2
+      },
+      {
+        "fpl_id": 32,
+        "name": "Matty Cash",
+        "club": "Aston Villa",
+        "position": "DEF",
+        "price_paid": 2
+      },
+      {
+        "fpl_id": 335,
+        "name": "Anton Stach",
+        "club": "Leeds",
+        "position": "MID",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 41,
+        "name": "Emiliano Buendia",
+        "club": "Aston Villa",
+        "position": "MID",
+        "price_paid": 9
+      },
+      {
+        "fpl_id": 592,
+        "name": "Abdoul Outtarra",
+        "club": "Ipswich Town",
+        "position": "MID",
+        "price_paid": 2
+      },
+      {
+        "fpl_id": 156,
+        "name": "Pedro Neto",
+        "club": "Chelsea",
+        "position": "MID",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 428,
+        "name": "Matheus Cunha",
+        "club": "Man Utd",
+        "position": "MID",
+        "price_paid": 86
+      },
+      {
+        "fpl_id": 165,
+        "name": "Joao Pedro",
+        "club": "Chelsea",
+        "position": "FWD",
+        "price_paid": 122
+      },
+      {
+        "fpl_id": 136,
+        "name": "Danny Welbeck",
+        "club": "Chelsea",
+        "position": "FWD",
+        "price_paid": 20
+      }
+    ],
+    "Randomiser": [
+      {
+        "fpl_id": 281,
+        "name": "Cody Drameh",
+        "club": "Hull City",
+        "position": "DEF",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 175,
+        "name": "Milan van Ewijk",
+        "club": "Coventry City",
+        "position": "DEF",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 390,
+        "name": "Ruben Dias",
+        "club": "Man City",
+        "position": "DEF",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 192,
+        "name": "Kai Andrews",
+        "club": "Coventry City",
+        "position": "MID",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 462,
+        "name": "Sean Steur",
+        "club": "Newcastle",
+        "position": "MID",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 550,
+        "name": "Djiamgone Jocelin Ta Bi",
+        "club": "Sunderland",
+        "position": "MID",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 46,
+        "name": "Ross Barkley",
+        "club": "Aston Villa",
+        "position": "MID",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 158,
+        "name": "Jamie Bynoe-Gittens",
+        "club": "Chelsea",
+        "position": "MID",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 491,
+        "name": "Igor Jesus",
+        "club": "Nott'm Forest",
+        "position": "FWD",
+        "price_paid": 1
+      },
+      {
+        "fpl_id": 139,
+        "name": "Evan Ferguson",
+        "club": "Brighton",
+        "position": "FWD",
+        "price_paid": 1
+      }
+    ]
+  }
+}

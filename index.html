@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Goals League</title>
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="site-header">
+  <h1>⚽ Goals League</h1>
+  <p class="subtitle">12 teams · goals only · updates automatically from the Premier League</p>
+  <p class="updated-at" id="updated-at"></p>
+</header>
+
+<nav class="tabs" id="tabs">
+  <button class="tab-btn active" data-tab="table">Table</button>
+  <button class="tab-btn" data-tab="fixtures">Fixtures &amp; Results</button>
+  <button class="tab-btn" data-tab="scorers">Top Scorers</button>
+  <button class="tab-btn" data-tab="teams">Teams</button>
+</nav>
+
+<main>
+  <section id="tab-table" class="tab-panel active">
+    <div class="table-wrap">
+      <table id="standings-table">
+        <thead>
+          <tr>
+            <th>#</th><th class="team-col">Team</th><th>P</th><th>W</th><th>D</th><th>L</th>
+            <th>GF</th><th>GA</th><th>GD</th><th>Pts</th>
+          </tr>
+        </thead>
+        <tbody id="standings-body"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section id="tab-fixtures" class="tab-panel">
+    <div class="gw-nav">
+      <button id="gw-prev">&larr;</button>
+      <select id="gw-select"></select>
+      <button id="gw-next">&rarr;</button>
+    </div>
+    <div id="fixtures-list"></div>
+  </section>
+
+  <section id="tab-scorers" class="tab-panel">
+    <div class="table-wrap">
+      <table id="scorers-table">
+        <thead><tr><th>#</th><th>Player</th><th class="team-col">Team</th><th>Owner</th><th>Goals</th></tr></thead>
+        <tbody id="scorers-body"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section id="tab-teams" class="tab-panel">
+    <div id="teams-list"></div>
+  </section>
+</main>
+
+<footer>
+  <p>Data from the official Fantasy Premier League API. Refreshes automatically while matches are being played.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
