@@ -652,9 +652,14 @@
         {
           "home": "Ludo Goodliffe",
           "away": "Toby Ostrich",
-          "home_score": 0,
+          "home_score": 1,
           "away_score": 0,
-          "home_scorers": [],
+          "home_scorers": [
+            {
+              "name": "Morgan Rogers",
+              "goals": 1
+            }
+          ],
           "away_scorers": []
         },
         {
@@ -2372,5 +2377,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-10T13:16:51.887994+00:00"
+  "updated_at": "2026-10-10T14:15:26.407489+00:00"
 }
