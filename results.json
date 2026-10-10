@@ -662,7 +662,7 @@
           "home": "Ludo Goodliffe",
           "away": "Toby Ostrich",
           "home_score": 2,
-          "away_score": 3,
+          "away_score": 4,
           "home_scorers": [
             {
               "name": "Morgan Rogers",
@@ -677,6 +677,10 @@
             {
               "name": "Joao Pedro",
               "goals": 2
+            },
+            {
+              "name": "Abdoul Outtarra",
+              "goals": 1
             },
             {
               "name": "Maxim De Cuyper",
@@ -2399,5 +2403,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-10T15:45:52.828089+00:00"
+  "updated_at": "2026-10-10T16:15:42.417950+00:00"
 }
