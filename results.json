@@ -692,9 +692,14 @@
           "home": "Chris Hodder",
           "away": "Scott Johnson",
           "home_score": 0,
-          "away_score": 0,
+          "away_score": 1,
           "home_scorers": [],
-          "away_scorers": []
+          "away_scorers": [
+            {
+              "name": "Bryan Mbeumo",
+              "goals": 1
+            }
+          ]
         },
         {
           "home": "Oli Major",
@@ -2403,5 +2408,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-10T16:15:42.417950+00:00"
+  "updated_at": "2026-10-10T18:20:29.622742+00:00"
 }
