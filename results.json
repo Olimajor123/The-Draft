@@ -626,9 +626,13 @@
         {
           "home": "Jack Rowland/Joe Stevenson",
           "away": "Cas Goodliffe",
-          "home_score": 1,
+          "home_score": 2,
           "away_score": 1,
           "home_scorers": [
+            {
+              "name": "John McGinn",
+              "goals": 1
+            },
             {
               "name": "Evanilson",
               "goals": 1
@@ -658,7 +662,7 @@
           "home": "Ludo Goodliffe",
           "away": "Toby Ostrich",
           "home_score": 2,
-          "away_score": 2,
+          "away_score": 3,
           "home_scorers": [
             {
               "name": "Morgan Rogers",
@@ -672,7 +676,7 @@
           "away_scorers": [
             {
               "name": "Joao Pedro",
-              "goals": 1
+              "goals": 2
             },
             {
               "name": "Maxim De Cuyper",
@@ -2395,5 +2399,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-10T15:15:31.683859+00:00"
+  "updated_at": "2026-10-10T15:45:52.828089+00:00"
 }
