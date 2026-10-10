@@ -626,9 +626,14 @@
         {
           "home": "Jack Rowland/Joe Stevenson",
           "away": "Cas Goodliffe",
-          "home_score": 0,
+          "home_score": 1,
           "away_score": 1,
-          "home_scorers": [],
+          "home_scorers": [
+            {
+              "name": "Evanilson",
+              "goals": 1
+            }
+          ],
           "away_scorers": [
             {
               "name": "Bruno Guimaraes",
@@ -652,15 +657,28 @@
         {
           "home": "Ludo Goodliffe",
           "away": "Toby Ostrich",
-          "home_score": 1,
-          "away_score": 0,
+          "home_score": 2,
+          "away_score": 2,
           "home_scorers": [
             {
               "name": "Morgan Rogers",
               "goals": 1
+            },
+            {
+              "name": "Ryan Sessegnon",
+              "goals": 1
             }
           ],
-          "away_scorers": []
+          "away_scorers": [
+            {
+              "name": "Joao Pedro",
+              "goals": 1
+            },
+            {
+              "name": "Maxim De Cuyper",
+              "goals": 1
+            }
+          ]
         },
         {
           "home": "Chris Hodder",
@@ -2377,5 +2395,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-10T14:15:26.407489+00:00"
+  "updated_at": "2026-10-10T15:15:31.683859+00:00"
 }
