@@ -14,7 +14,7 @@ Rules implemented (goals-only custom league):
     checked the data (bonus points / corrections settled).
 
 Run with: python3 update_scores.py
-Writes: data/results.json, data/standings.json
+Writes: results.json, standings.json
 """
 import json
 import os
@@ -25,7 +25,7 @@ import urllib.error
 from datetime import datetime, timezone
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-DATA_DIR = os.path.join(SCRIPT_DIR, '..', 'data')
+DATA_DIR = SCRIPT_DIR
 
 BOOTSTRAP_URL = 'https://fantasy.premierleague.com/api/bootstrap-static/'
 LIVE_URL = 'https://fantasy.premierleague.com/api/event/{event_id}/live/'
@@ -108,7 +108,6 @@ def main():
 
     team_names = list(rosters['teams'].keys())
 
-    # id -> (owner, player name) ; and owner -> set of fpl ids (for quick lookup)
     owner_of_player = {}
     owner_player_ids = {}
     for owner, players in rosters['teams'].items():
@@ -127,7 +126,7 @@ def main():
     for gw_num in range(1, 39):
         gw_key = str(gw_num)
         if gw_num in LOCKED_GAMEWEEKS:
-            continue  # never touch manually-entered history
+            continue
 
         event = events.get(gw_num)
         if event is None:
@@ -135,11 +134,10 @@ def main():
 
         deadline = datetime.fromisoformat(event['deadline_time'].replace('Z', '+00:00'))
         if now < deadline:
-            continue  # gameweek hasn't kicked off yet - leave as scheduled
+            continue
 
         is_final = bool(event.get('finished')) and bool(event.get('data_checked'))
 
-        # fetch per-player stats for this gameweek
         live = fetch_json(LIVE_URL.format(event_id=gw_num))
         stats_by_id = {}
         for el in live['elements']:
@@ -164,7 +162,6 @@ def main():
                     home_goals += g
                     home_scorers.append({'name': owner_of_player[pid][1], 'goals': g})
                 if og:
-                    # own goal counts against the scorer's own team
                     away_goals += og
                     away_scorers.append({'name': owner_of_player[pid][1], 'goals': og, 'own_goal': True})
 
@@ -193,7 +190,6 @@ def main():
             changed = True
         results['gameweeks'][gw_key] = {'status': new_status, 'matches': new_matches}
 
-    # bump last_gameweek_processed to the highest finished gameweek
     finished_gws = [n for n in range(1, 39)
                     if results['gameweeks'].get(str(n), {}).get('status') == 'final']
     results['last_gameweek_processed'] = max(finished_gws) if finished_gws else 0
