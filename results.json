@@ -613,53 +613,53 @@
       ]
     },
     "6": {
-      "status": "scheduled",
+      "status": "live",
       "matches": [
         {
           "home": "Gian Barker",
           "away": "Rob Mackie",
-          "home_score": null,
-          "away_score": null,
+          "home_score": 0,
+          "away_score": 0,
           "home_scorers": [],
           "away_scorers": []
         },
         {
           "home": "Jack Rowland/Joe Stevenson",
           "away": "Cas Goodliffe",
-          "home_score": null,
-          "away_score": null,
+          "home_score": 0,
+          "away_score": 0,
           "home_scorers": [],
           "away_scorers": []
         },
         {
           "home": "Reuben McCardle",
           "away": "Luke Whitehorn",
-          "home_score": null,
-          "away_score": null,
+          "home_score": 0,
+          "away_score": 0,
           "home_scorers": [],
           "away_scorers": []
         },
         {
           "home": "Ludo Goodliffe",
           "away": "Toby Ostrich",
-          "home_score": null,
-          "away_score": null,
+          "home_score": 0,
+          "away_score": 0,
           "home_scorers": [],
           "away_scorers": []
         },
         {
           "home": "Chris Hodder",
           "away": "Scott Johnson",
-          "home_score": null,
-          "away_score": null,
+          "home_score": 0,
+          "away_score": 0,
           "home_scorers": [],
           "away_scorers": []
         },
         {
           "home": "Oli Major",
           "away": "Randomiser",
-          "home_score": null,
-          "away_score": null,
+          "home_score": 0,
+          "away_score": 0,
           "home_scorers": [],
           "away_scorers": []
         }
@@ -2361,5 +2361,6 @@
         }
       ]
     }
-  }
+  },
+  "updated_at": "2026-10-10T10:45:22.020015+00:00"
 }
