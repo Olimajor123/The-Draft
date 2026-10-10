@@ -2,10 +2,10 @@ const DATA = { rosters: null, fixtures: null, results: null, standings: null };
 
 async function loadData() {
   const [rosters, fixtures, results, standings] = await Promise.all([
-    fetch('data/rosters.json').then(r => r.json()),
-    fetch('data/fixtures.json').then(r => r.json()),
-    fetch('data/results.json').then(r => r.json()),
-    fetch('data/standings.json').then(r => r.json()),
+    fetch('rosters.json').then(r => r.json()),
+    fetch('fixtures.json').then(r => r.json()),
+    fetch('results.json').then(r => r.json()),
+    fetch('standings.json').then(r => r.json()),
   ]);
   DATA.rosters = rosters;
   DATA.fixtures = fixtures;
@@ -104,7 +104,7 @@ function setupGameweekNav() {
 }
 
 function renderScorers() {
-  const tally = {}; // fpl_id-ish key by name+team -> {name, club, owner, goals}
+  const tally = {};
   const ownerByName = {};
   Object.entries(DATA.rosters.teams).forEach(([owner, players]) => {
     players.forEach(p => { ownerByName[`${owner}::${p.name}`] = p; });
@@ -115,7 +115,7 @@ function renderScorers() {
     gw.matches.forEach(m => {
       [[m.home, m.home_scorers], [m.away, m.away_scorers]].forEach(([owner, scorers]) => {
         scorers.forEach(s => {
-          if (s.own_goal) return; // own goals aren't "scorer" credit
+          if (s.own_goal) return;
           const key = `${owner}::${s.name}`;
           if (!tally[key]) {
             const meta = ownerByName[key];
