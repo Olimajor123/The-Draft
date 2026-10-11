@@ -618,9 +618,14 @@
         {
           "home": "Gian Barker",
           "away": "Rob Mackie",
-          "home_score": 0,
+          "home_score": 1,
           "away_score": 0,
-          "home_scorers": [],
+          "home_scorers": [
+            {
+              "name": "Kiernan Dewsbury-Hall",
+              "goals": 1
+            }
+          ],
           "away_scorers": []
         },
         {
@@ -661,9 +666,13 @@
         {
           "home": "Ludo Goodliffe",
           "away": "Toby Ostrich",
-          "home_score": 2,
+          "home_score": 3,
           "away_score": 4,
           "home_scorers": [
+            {
+              "name": "Thierno Barry",
+              "goals": 1
+            },
             {
               "name": "Morgan Rogers",
               "goals": 1
@@ -2413,5 +2422,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-10T18:49:36.742653+00:00"
+  "updated_at": "2026-10-11T14:46:53.683031+00:00"
 }
