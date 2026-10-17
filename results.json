@@ -745,12 +745,12 @@
           "home": "Scott Johnson",
           "away": "Rob Mackie",
           "home_score": 0,
-          "away_score": 1,
+          "away_score": 2,
           "home_scorers": [],
           "away_scorers": [
             {
               "name": "Erling Haaland",
-              "goals": 1
+              "goals": 2
             }
           ]
         },
@@ -778,9 +778,14 @@
         {
           "home": "Reuben McCardle",
           "away": "Toby Ostrich",
-          "home_score": 0,
+          "home_score": 1,
           "away_score": 2,
-          "home_scorers": [],
+          "home_scorers": [
+            {
+              "name": "Alexander Isak",
+              "goals": 1
+            }
+          ],
           "away_scorers": [
             {
               "name": "Pedro Neto",
@@ -2455,5 +2460,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-17T15:07:08.214106+00:00"
+  "updated_at": "2026-10-17T15:43:04.493144+00:00"
 }
