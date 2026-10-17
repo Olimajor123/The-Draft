@@ -799,9 +799,14 @@
         {
           "home": "Ludo Goodliffe",
           "away": "Oli Major",
-          "home_score": 0,
+          "home_score": 1,
           "away_score": 0,
-          "home_scorers": [],
+          "home_scorers": [
+            {
+              "name": "Keane Lewis-Potter",
+              "goals": 1
+            }
+          ],
           "away_scorers": []
         }
       ]
@@ -2450,5 +2455,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-17T14:43:04.889705+00:00"
+  "updated_at": "2026-10-17T15:07:08.214106+00:00"
 }
