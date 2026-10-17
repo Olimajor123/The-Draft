@@ -745,9 +745,14 @@
           "home": "Scott Johnson",
           "away": "Rob Mackie",
           "home_score": 0,
-          "away_score": 0,
+          "away_score": 1,
           "home_scorers": [],
-          "away_scorers": []
+          "away_scorers": [
+            {
+              "name": "Erling Haaland",
+              "goals": 1
+            }
+          ]
         },
         {
           "home": "Gian Barker",
@@ -761,9 +766,14 @@
           "home": "Jack Rowland/Joe Stevenson",
           "away": "Luke Whitehorn",
           "home_score": 0,
-          "away_score": 0,
+          "away_score": 1,
           "home_scorers": [],
-          "away_scorers": []
+          "away_scorers": [
+            {
+              "name": "Phil Foden",
+              "goals": 1
+            }
+          ]
         },
         {
           "home": "Reuben McCardle",
@@ -2440,5 +2450,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-17T13:42:27.547410+00:00"
+  "updated_at": "2026-10-17T14:43:04.889705+00:00"
 }
