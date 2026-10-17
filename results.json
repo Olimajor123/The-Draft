@@ -769,9 +769,14 @@
           "home": "Reuben McCardle",
           "away": "Toby Ostrich",
           "home_score": 0,
-          "away_score": 0,
+          "away_score": 1,
           "home_scorers": [],
-          "away_scorers": []
+          "away_scorers": [
+            {
+              "name": "Pedro Neto",
+              "goals": 1
+            }
+          ]
         },
         {
           "home": "Chris Hodder",
@@ -2435,5 +2440,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-17T10:57:08.864809+00:00"
+  "updated_at": "2026-10-17T13:07:16.590352+00:00"
 }
