@@ -744,9 +744,14 @@
         {
           "home": "Scott Johnson",
           "away": "Rob Mackie",
-          "home_score": 0,
+          "home_score": 1,
           "away_score": 2,
-          "home_scorers": [],
+          "home_scorers": [
+            {
+              "name": "Bryan Mbeumo",
+              "goals": 1
+            }
+          ],
           "away_scorers": [
             {
               "name": "Erling Haaland",
@@ -2464,5 +2469,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-18T13:07:55.402956+00:00"
+  "updated_at": "2026-10-18T13:42:46.364124+00:00"
 }
