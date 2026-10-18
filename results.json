@@ -763,16 +763,26 @@
           "home": "Gian Barker",
           "away": "Cas Goodliffe",
           "home_score": 0,
-          "away_score": 0,
+          "away_score": 1,
           "home_scorers": [],
-          "away_scorers": []
+          "away_scorers": [
+            {
+              "name": "Dominic Calvert-Lewin",
+              "goals": 1
+            }
+          ]
         },
         {
           "home": "Jack Rowland/Joe Stevenson",
           "away": "Luke Whitehorn",
-          "home_score": 0,
+          "home_score": 1,
           "away_score": 1,
-          "home_scorers": [],
+          "home_scorers": [
+            {
+              "name": "Evanilson",
+              "goals": 1
+            }
+          ],
           "away_scorers": [
             {
               "name": "Phil Foden",
@@ -2469,5 +2479,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-18T13:42:46.364124+00:00"
+  "updated_at": "2026-10-18T14:43:26.269032+00:00"
 }
