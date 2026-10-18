@@ -778,9 +778,13 @@
         {
           "home": "Reuben McCardle",
           "away": "Toby Ostrich",
-          "home_score": 1,
+          "home_score": 2,
           "away_score": 2,
           "home_scorers": [
+            {
+              "name": "Marcus Tavernier",
+              "goals": 1
+            },
             {
               "name": "Alexander Isak",
               "goals": 1
@@ -2460,5 +2464,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-17T15:43:04.493144+00:00"
+  "updated_at": "2026-10-18T13:07:55.402956+00:00"
 }
