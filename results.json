@@ -776,7 +776,7 @@
           "home": "Jack Rowland/Joe Stevenson",
           "away": "Luke Whitehorn",
           "home_score": 1,
-          "away_score": 1,
+          "away_score": 2,
           "home_scorers": [
             {
               "name": "Evanilson",
@@ -786,6 +786,10 @@
           "away_scorers": [
             {
               "name": "Phil Foden",
+              "goals": 1
+            },
+            {
+              "name": "Jack Hinshelwood",
               "goals": 1
             }
           ]
@@ -2479,5 +2483,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-18T14:43:26.269032+00:00"
+  "updated_at": "2026-10-18T15:07:42.283256+00:00"
 }
