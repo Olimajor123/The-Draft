@@ -823,9 +823,14 @@
         {
           "home": "Chris Hodder",
           "away": "Randomiser",
-          "home_score": 0,
+          "home_score": 1,
           "away_score": 0,
-          "home_scorers": [],
+          "home_scorers": [
+            {
+              "name": "James Maddison",
+              "goals": 1
+            }
+          ],
           "away_scorers": []
         },
         {
@@ -2487,5 +2492,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-18T17:41:35.437810+00:00"
+  "updated_at": "2026-10-19T19:19:55.184939+00:00"
 }
