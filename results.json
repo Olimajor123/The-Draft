@@ -1,5 +1,5 @@
 {
-  "last_gameweek_processed": 6,
+  "last_gameweek_processed": 7,
   "gameweeks": {
     "1": {
       "status": "final",
@@ -739,7 +739,7 @@
       ]
     },
     "7": {
-      "status": "live",
+      "status": "final",
       "matches": [
         {
           "home": "Scott Johnson",
@@ -2492,5 +2492,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-19T19:19:55.184939+00:00"
+  "updated_at": "2026-10-20T16:06:00.620241+00:00"
 }
