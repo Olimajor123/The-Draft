@@ -855,9 +855,14 @@
           "home": "Randomiser",
           "away": "Rob Mackie",
           "home_score": 0,
-          "away_score": 0,
+          "away_score": 1,
           "home_scorers": [],
-          "away_scorers": []
+          "away_scorers": [
+            {
+              "name": "Erling Haaland",
+              "goals": 1
+            }
+          ]
         },
         {
           "home": "Scott Johnson",
@@ -2497,5 +2502,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-23T19:58:19.661633+00:00"
+  "updated_at": "2026-10-24T13:11:51.278750+00:00"
 }
