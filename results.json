@@ -855,9 +855,13 @@
           "home": "Randomiser",
           "away": "Rob Mackie",
           "home_score": 0,
-          "away_score": 1,
+          "away_score": 2,
           "home_scorers": [],
           "away_scorers": [
+            {
+              "name": "Oscar Bobb",
+              "goals": 1
+            },
             {
               "name": "Erling Haaland",
               "goals": 1
@@ -888,9 +892,14 @@
         {
           "home": "Jack Rowland/Joe Stevenson",
           "away": "Toby Ostrich",
-          "home_score": 0,
+          "home_score": 1,
           "away_score": 0,
-          "home_scorers": [],
+          "home_scorers": [
+            {
+              "name": "Gabriel",
+              "goals": 1
+            }
+          ],
           "away_scorers": []
         },
         {
@@ -2502,5 +2511,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-24T13:11:51.278750+00:00"
+  "updated_at": "2026-10-24T15:58:38.864809+00:00"
 }
