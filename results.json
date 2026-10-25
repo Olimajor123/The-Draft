@@ -897,7 +897,7 @@
         {
           "home": "Jack Rowland/Joe Stevenson",
           "away": "Toby Ostrich",
-          "home_score": 2,
+          "home_score": 3,
           "away_score": 0,
           "home_scorers": [
             {
@@ -906,6 +906,10 @@
             },
             {
               "name": "Harvey Barnes",
+              "goals": 1
+            },
+            {
+              "name": "Evanilson",
               "goals": 1
             }
           ],
@@ -2545,5 +2549,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-25T15:24:33.324948+00:00"
+  "updated_at": "2026-10-25T15:58:06.668109+00:00"
 }
