@@ -872,9 +872,14 @@
           "home": "Scott Johnson",
           "away": "Cas Goodliffe",
           "home_score": 0,
-          "away_score": 0,
+          "away_score": 1,
           "home_scorers": [],
-          "away_scorers": []
+          "away_scorers": [
+            {
+              "name": "Oli McBurnie",
+              "goals": 1
+            }
+          ]
         },
         {
           "home": "Gian Barker",
@@ -906,17 +911,33 @@
           "home": "Ludo Goodliffe",
           "away": "Reuben McCardle",
           "home_score": 0,
-          "away_score": 0,
+          "away_score": 1,
           "home_scorers": [],
-          "away_scorers": []
+          "away_scorers": [
+            {
+              "name": "Alexander Isak",
+              "goals": 1
+            }
+          ]
         },
         {
           "home": "Chris Hodder",
           "away": "Oli Major",
-          "home_score": 0,
-          "away_score": 0,
-          "home_scorers": [],
-          "away_scorers": []
+          "home_score": 1,
+          "away_score": 1,
+          "home_scorers": [
+            {
+              "name": "Rayan",
+              "goals": 1
+            }
+          ],
+          "away_scorers": [
+            {
+              "name": "Pascal Gross",
+              "goals": 1,
+              "own_goal": true
+            }
+          ]
         }
       ]
     },
@@ -2511,5 +2532,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-24T15:58:38.864809+00:00"
+  "updated_at": "2026-10-25T14:45:25.996180+00:00"
 }
