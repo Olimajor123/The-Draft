@@ -1,5 +1,5 @@
 {
-  "last_gameweek_processed": 7,
+  "last_gameweek_processed": 8,
   "gameweeks": {
     "1": {
       "status": "final",
@@ -849,7 +849,7 @@
       ]
     },
     "8": {
-      "status": "live",
+      "status": "final",
       "matches": [
         {
           "home": "Randomiser",
@@ -2549,5 +2549,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-25T15:58:06.668109+00:00"
+  "updated_at": "2026-10-26T15:22:27.391473+00:00"
 }
