@@ -994,16 +994,27 @@
           "home": "Gian Barker",
           "away": "Toby Ostrich",
           "home_score": 0,
-          "away_score": 0,
+          "away_score": 1,
           "home_scorers": [],
-          "away_scorers": []
+          "away_scorers": [
+            {
+              "name": "Nikola Milenkovic",
+              "goals": 1,
+              "own_goal": true
+            }
+          ]
         },
         {
           "home": "Jack Rowland/Joe Stevenson",
           "away": "Reuben McCardle",
-          "home_score": 0,
+          "home_score": 1,
           "away_score": 0,
-          "home_scorers": [],
+          "home_scorers": [
+            {
+              "name": "Evanilson",
+              "goals": 1
+            }
+          ],
           "away_scorers": []
         },
         {
@@ -2559,5 +2570,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-31T14:09:44.688355+00:00"
+  "updated_at": "2026-10-31T16:16:41.285972+00:00"
 }
