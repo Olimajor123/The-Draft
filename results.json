@@ -978,11 +978,15 @@
           "home": "Randomiser",
           "away": "Cas Goodliffe",
           "home_score": 0,
-          "away_score": 1,
+          "away_score": 2,
           "home_scorers": [],
           "away_scorers": [
             {
               "name": "Oli McBurnie",
+              "goals": 1
+            },
+            {
+              "name": "Jean Paul Van Hecke",
               "goals": 1
             }
           ]
@@ -2585,5 +2589,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-31T17:07:10.521328+00:00"
+  "updated_at": "2026-10-31T19:23:34.764770+00:00"
 }
