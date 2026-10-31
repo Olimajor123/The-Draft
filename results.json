@@ -964,18 +964,28 @@
         {
           "home": "Oli Major",
           "away": "Rob Mackie",
-          "home_score": 0,
+          "home_score": 1,
           "away_score": 0,
-          "home_scorers": [],
+          "home_scorers": [
+            {
+              "name": "Igor Thiago",
+              "goals": 1
+            }
+          ],
           "away_scorers": []
         },
         {
           "home": "Randomiser",
           "away": "Cas Goodliffe",
           "home_score": 0,
-          "away_score": 0,
+          "away_score": 1,
           "home_scorers": [],
-          "away_scorers": []
+          "away_scorers": [
+            {
+              "name": "Oli McBurnie",
+              "goals": 1
+            }
+          ]
         },
         {
           "home": "Scott Johnson",
@@ -993,9 +1003,14 @@
         {
           "home": "Gian Barker",
           "away": "Toby Ostrich",
-          "home_score": 0,
+          "home_score": 1,
           "away_score": 1,
-          "home_scorers": [],
+          "home_scorers": [
+            {
+              "name": "Julio Enciso",
+              "goals": 1
+            }
+          ],
           "away_scorers": [
             {
               "name": "Nikola Milenkovic",
@@ -2570,5 +2585,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-31T16:16:41.285972+00:00"
+  "updated_at": "2026-10-31T17:07:10.521328+00:00"
 }
