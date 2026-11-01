@@ -1040,14 +1040,19 @@
           "home": "Ludo Goodliffe",
           "away": "Chris Hodder",
           "home_score": 1,
-          "away_score": 0,
+          "away_score": 1,
           "home_scorers": [
             {
               "name": "Morgan Rogers",
               "goals": 1
             }
           ],
-          "away_scorers": []
+          "away_scorers": [
+            {
+              "name": "Kai Havertz",
+              "goals": 1
+            }
+          ]
         }
       ]
     },
@@ -2589,5 +2594,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-31T19:23:34.764770+00:00"
+  "updated_at": "2026-11-01T17:06:56.050236+00:00"
 }
