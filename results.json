@@ -1,5 +1,5 @@
 {
-  "last_gameweek_processed": 8,
+  "last_gameweek_processed": 9,
   "gameweeks": {
     "1": {
       "status": "final",
@@ -959,7 +959,7 @@
       ]
     },
     "9": {
-      "status": "live",
+      "status": "final",
       "matches": [
         {
           "home": "Oli Major",
@@ -2598,5 +2598,5 @@
       ]
     }
   },
-  "updated_at": "2026-11-02T21:26:09.130994+00:00"
+  "updated_at": "2026-11-03T15:28:19.700267+00:00"
 }
