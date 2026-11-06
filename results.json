@@ -1106,9 +1106,14 @@
         {
           "home": "Ludo Goodliffe",
           "away": "Jack Rowland/Joe Stevenson",
-          "home_score": 0,
+          "home_score": 2,
           "away_score": 0,
-          "home_scorers": [],
+          "home_scorers": [
+            {
+              "name": "Thierno Barry",
+              "goals": 2
+            }
+          ],
           "away_scorers": []
         }
       ]
@@ -2598,5 +2603,5 @@
       ]
     }
   },
-  "updated_at": "2026-11-06T19:48:56.163425+00:00"
+  "updated_at": "2026-11-06T21:23:41.898773+00:00"
 }
