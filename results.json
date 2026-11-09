@@ -1,5 +1,5 @@
 {
-  "last_gameweek_processed": 9,
+  "last_gameweek_processed": 10,
   "gameweeks": {
     "1": {
       "status": "final",
@@ -1061,7 +1061,7 @@
       ]
     },
     "10": {
-      "status": "live",
+      "status": "final",
       "matches": [
         {
           "home": "Chris Hodder",
@@ -2653,5 +2653,5 @@
       ]
     }
   },
-  "updated_at": "2026-11-08T20:36:29.643403+00:00"
+  "updated_at": "2026-11-09T16:54:16.757765+00:00"
 }
