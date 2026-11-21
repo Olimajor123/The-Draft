@@ -1169,55 +1169,79 @@
       ]
     },
     "11": {
-      "status": "scheduled",
+      "status": "live",
       "matches": [
         {
           "home": "Ludo Goodliffe",
           "away": "Rob Mackie",
-          "home_score": null,
-          "away_score": null,
-          "home_scorers": [],
+          "home_score": 2,
+          "away_score": 0,
+          "home_scorers": [
+            {
+              "name": "Noah Okafor",
+              "goals": 2
+            }
+          ],
           "away_scorers": []
         },
         {
           "home": "Chris Hodder",
           "away": "Cas Goodliffe",
-          "home_score": null,
-          "away_score": null,
+          "home_score": 0,
+          "away_score": 2,
           "home_scorers": [],
-          "away_scorers": []
+          "away_scorers": [
+            {
+              "name": "Justin Kluivert",
+              "goals": 1
+            },
+            {
+              "name": "Dominic Calvert-Lewin",
+              "goals": 1
+            }
+          ]
         },
         {
           "home": "Oli Major",
           "away": "Luke Whitehorn",
-          "home_score": null,
-          "away_score": null,
-          "home_scorers": [],
+          "home_score": 1,
+          "away_score": 0,
+          "home_scorers": [
+            {
+              "name": "Dominic Solanke",
+              "goals": 1
+            }
+          ],
           "away_scorers": []
         },
         {
           "home": "Randomiser",
           "away": "Toby Ostrich",
-          "home_score": null,
-          "away_score": null,
+          "home_score": 0,
+          "away_score": 0,
           "home_scorers": [],
           "away_scorers": []
         },
         {
           "home": "Scott Johnson",
           "away": "Reuben McCardle",
-          "home_score": null,
-          "away_score": null,
+          "home_score": 0,
+          "away_score": 0,
           "home_scorers": [],
           "away_scorers": []
         },
         {
           "home": "Gian Barker",
           "away": "Jack Rowland/Joe Stevenson",
-          "home_score": null,
-          "away_score": null,
+          "home_score": 0,
+          "away_score": 1,
           "home_scorers": [],
-          "away_scorers": []
+          "away_scorers": [
+            {
+              "name": "Evanilson",
+              "goals": 1
+            }
+          ]
         }
       ]
     },
@@ -2653,5 +2677,5 @@
       ]
     }
   },
-  "updated_at": "2026-11-09T16:54:16.757765+00:00"
+  "updated_at": "2026-11-21T16:42:33.685851+00:00"
 }
