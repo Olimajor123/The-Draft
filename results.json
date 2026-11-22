@@ -1188,7 +1188,7 @@
           "home": "Chris Hodder",
           "away": "Cas Goodliffe",
           "home_score": 1,
-          "away_score": 2,
+          "away_score": 4,
           "home_scorers": [
             {
               "name": "Malick Thiaw",
@@ -1201,6 +1201,10 @@
               "goals": 1
             },
             {
+              "name": "Oli McBurnie",
+              "goals": 2
+            },
+            {
               "name": "Dominic Calvert-Lewin",
               "goals": 1
             }
@@ -1210,7 +1214,7 @@
           "home": "Oli Major",
           "away": "Luke Whitehorn",
           "home_score": 2,
-          "away_score": 0,
+          "away_score": 1,
           "home_scorers": [
             {
               "name": "Eberechi Eze",
@@ -1221,7 +1225,12 @@
               "goals": 1
             }
           ],
-          "away_scorers": []
+          "away_scorers": [
+            {
+              "name": "Dominik Szoboszlai",
+              "goals": 1
+            }
+          ]
         },
         {
           "home": "Randomiser",
@@ -1235,9 +1244,13 @@
           "home": "Scott Johnson",
           "away": "Reuben McCardle",
           "home_score": 0,
-          "away_score": 1,
+          "away_score": 2,
           "home_scorers": [],
           "away_scorers": [
+            {
+              "name": "Florian Wirtz",
+              "goals": 1
+            },
             {
               "name": "Noni Madueke",
               "goals": 1
@@ -2695,5 +2708,5 @@
       ]
     }
   },
-  "updated_at": "2026-11-21T21:55:20.986115+00:00"
+  "updated_at": "2026-11-22T17:43:19.747872+00:00"
 }
