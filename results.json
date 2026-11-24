@@ -1174,11 +1174,15 @@
         {
           "home": "Ludo Goodliffe",
           "away": "Rob Mackie",
-          "home_score": 2,
+          "home_score": 4,
           "away_score": 0,
           "home_scorers": [
             {
               "name": "Noah Okafor",
+              "goals": 2
+            },
+            {
+              "name": "Keane Lewis-Potter",
               "goals": 2
             }
           ],
@@ -2713,5 +2717,5 @@
       ]
     }
   },
-  "updated_at": "2026-11-22T22:51:11.290073+00:00"
+  "updated_at": "2026-11-24T01:15:17.006329+00:00"
 }
