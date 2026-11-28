@@ -1292,9 +1292,18 @@
           "home": "Rob Mackie",
           "away": "Cas Goodliffe",
           "home_score": 0,
-          "away_score": 0,
+          "away_score": 2,
           "home_scorers": [],
-          "away_scorers": []
+          "away_scorers": [
+            {
+              "name": "Dominic Calvert-Lewin",
+              "goals": 1
+            },
+            {
+              "name": "Kevin Schade",
+              "goals": 1
+            }
+          ]
         },
         {
           "home": "Luke Whitehorn",
@@ -2727,5 +2736,5 @@
       ]
     }
   },
-  "updated_at": "2026-11-28T01:38:11.329415+00:00"
+  "updated_at": "2026-11-28T17:46:14.441426+00:00"
 }
